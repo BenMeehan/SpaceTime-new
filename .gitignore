@@ -1,0 +1,11 @@
+stories-backend/node_modules
+stories-backend/.gitignore
+
+stories-nextjs/.next
+stories-nextjs/node_modules
+stories-nextjs/.gitignore
+
+stories-rest/Include
+stories-rest/Lib
+stories-rest/Scripts
+stories-rest/.gitignore
